@@ -7,5 +7,5 @@ just copy and paste and done!
 
 # Credits
 
-LannonK :: 0x96#8297
+st0rm23 :: st0rm#9361
 
